@@ -1,3 +1,7 @@
 form button {
 	box-shadow: 0 0 20px rgba(0,0,255,.6);
 }
+
+.input-group>.input-group-prepend>.input-group-text {
+	min-width: 91px;
+}
